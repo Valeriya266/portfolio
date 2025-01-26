@@ -35,11 +35,11 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <p>I apply UI/UX aspects to make websites and applications<br></br>functional, accessible and aesthetically engaging for users.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />
-                                <h5>Styles CSS</h5>
+                                <h5>HTML/CSS</h5>
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
