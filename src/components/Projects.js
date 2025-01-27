@@ -14,16 +14,19 @@ export const Projects = () => {
       title: "Marvel App",
       description: "React & API",
       imgUrl: projImg1,
+      link: https://valeriya266.github.io/marvel_starter/
     },
     {
       title: "Kinopoisk App",
       description: "React & API",
       imgUrl: projImg2,
+      link: https://valeriya266.github.io/Film-player/
     },
     {
       title: "Business Startup",
       description: "Design & Development",
       imgUrl: projImg3,
+      link: https://valeriya266.github.io/Employees-app/
     }
   ];
 
