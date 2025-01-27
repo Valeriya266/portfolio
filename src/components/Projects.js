@@ -12,19 +12,19 @@ export const Projects = () => {
   const projects = [
     {
       title: "Marvel App",
-      description: "React & API",
+      description: "The application for real fans of Marvel Universe with a list of Marvel Heroes and Comics with this Hero. You can find description of random Hero, find your favorite specific Hero and information about Comics with this Hero.",
       imgUrl: projImg1,
       link: https://valeriya266.github.io/marvel_starter/
     },
     {
       title: "Kinopoisk App",
-      description: "React & API",
+      description: "Web site where you can find a list of top latest movies with rating from Kinopoisk site.",
       imgUrl: projImg2,
       link: https://valeriya266.github.io/Film-player/
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Employee accounting form",
+      description: "A simple management application for employee accounting where you can add new employees to the list, remove them and sort them by bonus indicator.",
       imgUrl: projImg3,
       link: https://valeriya266.github.io/Employees-app/
     }
